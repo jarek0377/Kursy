@@ -11,12 +11,14 @@ namespace wyrazenia_algebraiczne__03_01
         static void Main(string[] args)
         {
             //Przykładowe wyrażenia: y=2ab-4 w języku c# zapiszemy:
-            int a = 2, b = 3, y;
+            int a=2, b=3, y;
             y = 2 * a * b - 4;
             Console.WriteLine(y);
             Console.ReadKey();
 
-
         }
     }
+}
+
+
 

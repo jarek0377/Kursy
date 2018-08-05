@@ -21,8 +21,6 @@ namespace ogrodnictwo_ilosc_drzewek_do_obsadzenia
             Console.WriteLine(ilosc);
             Console.ReadKey();
 
-
-            
         }
     }       
 

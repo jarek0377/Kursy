@@ -328,3 +328,13 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+C#/xx/xx/Program.cs
+C#/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj
+C#/ConsoleApp1/ConsoleApp1/App.config
+C#/ConsoleApp1/ConsoleApp1.sln
+C#/ConsoleApp1/ConsoleApp1/Program.cs
+C#/xx/xx/Properties/AssemblyInfo.cs
+C#/xx/xx/xx.csproj
+C#/ConsoleApp1/ConsoleApp1/Properties/AssemblyInfo.cs
+C#/xx/xx.sln
+C#/xx/xx/App.config
